@@ -1,33 +1,34 @@
-VCP Pattern - 2025-08-13
-==============================
-URL:
-https://chartink.com/screener/manas-arora-vcp-pattern
+ChartInk Screener Results - VCP Pattern - 2025-08-13
+========================================
 
-Criteria:
+Screening Criteria:
 VCP Pattern screening results
 
-1 Jm Financial Limited JMFINANCIL P&F | F.A 15.01% 187.07 9,24,62,028
-2 HBL Engineering Ltd HBLENGINE P&F | F.A 10.32% 763.4 1,66,68,466
-3 InfoBeans Technologies Ltd INFOBEAN P&F | F.A 10% 639.75 2,20,041
-4 Bafna Pharmaceuticals Ltd BAFNAPH P&F | F.A 10% 99.48 66,960
-5 Gujarat Apollo Industries Limited GUJAPOLLO P&F | F.A 9.71% 465.55 1,38,421
-6 Vimta Labs Limited VIMTALABS P&F | F.A 8.53% 660.4 21,59,840
-7 Krbl Limited KRBL P&F | F.A 8.06% 487.15 58,55,984
-8 Coffee Day Enterprises Limited COFFEEDAY P&F | F.A 6.57% 38.1 29,50,127
-9 Shaily Engineering Plastics Ltd SHAILY P&F | F.A 5.4% 1853 5,86,676
-10 Tamilnadu Petroproducts Limited TNPETRO P&F | F.A 5% 104.44 1,52,970
-11 Blue Coast Hotels Limited BLUECOAST P&F | F.A 5% 74.57 411
-12 Ginni Filaments Limited GINNIFILA P&F | F.A 4.7% 54.82 8,05,609
-13 Gabriel India Limited GABRIEL P&F | F.A 4.13% 1109.6 12,05,454
-14 Tourism Finance Corporation Of India Limited TFCILTD P&F | F.A 3.73% 297.75 39,55,421
-15 Startech Finance Ltd STARTECK P&F | F.A 3.6% 334.9 13,726
-16 Centrum Capital Ltd CENTRUM P&F | F.A 3.11% 38.45 2,02,807
-17 Sunflag Iron And Steel Company Limited SUNFLAG P&F | F.A 3.1% 305.65 10,24,503
-18 Indo Rama Synthetics (india) Limited INDORAMA P&F | F.A 2.99% 52.41 1,75,081
-19 Shree Vasu Logistics Ltd SVLL P&F | F.A 2.93% 809 1,208
-20 Manaksia Aluminium Company Limited MANAKALUCO P&F | F.A 2.86% 31.28 1,76,479
-21 AGI Infra Ltd AGIIL P&F | F.A 2.8% 1100.4 1,15,572
-22 Robust Hotels Pvt Ltd RHL P&F | F.A 2.73% 278.45 8,980
-23 Vertoz Ltd VERTOZ P&F | F.A 2.63% 88.91 1,56,778
-24 Rallis India Limited RALLIS P&F | F.A 2.47% 379.9 9,55,850
-25 Nippon India ETF Hang Seng Bees HNGSNGBEES P&F | F.A 2.43% 445.6 2,52,230
+URL:
+https://chartink.com/screener/manas-arora-vcp-pattern
+------------------------------------------------------------
+
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|    |   Sr. | Stock Name                                   | Symbol     |   % Chg |   Price |   Volume |
++====+=======+==============================================+============+=========+=========+==========+
+|  0 |     7 | Jm Financial Limited                         | JMFINANCIL |  0.1501 |  187.07 | 92462028 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  3 |     8 | Yatra Online Ltd                             | YATRA      |  0.0839 |  148.62 | 83164062 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  8 |     3 | One 97 Communications Ltd                    | PAYTM      |  0.0313 | 1155    | 18978974 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  1 |     4 | HBL Engineering Ltd                          | HBLENGINE  |  0.1032 |  763.4  | 16668466 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  4 |     5 | Krbl Limited                                 | KRBL       |  0.0806 |  487.15 |  5855984 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  7 |     6 | Tourism Finance Corporation Of India Limited | TFCILTD    |  0.0373 |  297.75 |  3955421 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  5 |     1 | Apollo Hospitals Enterprise Limited          | APOLLOHOSP |  0.079  | 7808.5  |  2291645 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  6 |     2 | GE Vernova T&D India Ltd                     | GVT&D      |  0.0419 | 2916.9  |  1308234 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+|  2 |     9 | Bafna Pharmaceuticals Ltd                    | BAFNAPH    |  0.1    |   99.48 |    66960 |
++----+-------+----------------------------------------------+------------+---------+---------+----------+
+
+Ticker Symbols:
+JMFINANCIL, YATRA, PAYTM, HBLENGINE, KRBL, TFCILTD, APOLLOHOSP, GVT&D, BAFNAPH

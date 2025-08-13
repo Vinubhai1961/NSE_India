@@ -1,0 +1,92 @@
+52-Week Breakout - 2025-08-13
+==============================
+URL:
+https://chartink.com/screener/52-week-breakout-1
+
+Criteria:
+52 week breakout
+
+Atlas
+DASHBOARDS
+Screeners
+Create Scan, Old
+Charts*new*
+Candlestick, P&F
+Premium
+Realtime & Alerts
+Login/Register
+Scans, Watchlists
+Contact Us
+support@chartink.com
+INK CHART :
+Candle-Stick
+ Point and Figure
+ Fundamentals
+
+52 week breakout
+New: LIVE Alerts now available!
+Scanner Guide Scan Examples Feedback
+Scan Description: 52 week breakout
+MAGIC FILTERS
+Generate
+Stock
+passes
+all
+of the below filters in
+cash
+segment:
+DailyCloseGreater than equal toNumber50
+DailyEma(close,5)Greater thanDailyEma(close,26)
+DailyEma(close,13)Greater thanDailyEma(close,26)
+DailyCloseGreater than1 day agoClose*Number1.03
+DailyVolumeGreater thanDailySma(volume,20)*Number1.0
+DailyEma(close,5)Greater thanDailyEma(close,13)
+DailyHighEqualsDailyMax(260,DailyHigh
+)*Number1
+1 day agoCloseGreater than2 days agoClose*Number0.98
+Run Scan
+Save Scan
+Copy Scan
+Love Scan
+Create Alert
+Monitor on dashboard
+Backtest Results
+1825 people love this
+Get Realtime data for scanner in our premium subscription.
+
+Open new charts (use bigger, interactive charts)
+Link scan timeframe with charts (opens chart highlighting scan results & debug candle)
+Show chart preview (show pop-up charts when you hover mouse on a stock name)
+Add/remove columns
+Copy
+CSV
+Excel
+Search:
+Sr. Stock Name Symbol Links % Chg Price Volume
+1 Jm Financial Limited JMFINANCIL P&F | F.A 15.01% 187.07 9,24,62,028
+2 HBL Engineering Ltd HBLENGINE P&F | F.A 10.32% 763.4 1,66,68,466
+3 Bafna Pharmaceuticals Ltd BAFNAPH P&F | F.A 10% 99.48 66,960
+4 Yatra Online Ltd YATRA P&F | F.A 8.39% 148.62 8,31,64,062
+5 Krbl Limited KRBL P&F | F.A 8.06% 487.15 58,55,984
+6 Apollo Hospitals Enterprise Limited APOLLOHOSP P&F | F.A 7.9% 7808.5 22,91,645
+7 GE Vernova T&D India Ltd GVT&D P&F | F.A 4.19% 2916.9 13,08,234
+8 Tourism Finance Corporation Of India Limited TFCILTD P&F | F.A 3.73% 297.75 39,55,421
+9 One 97 Communications Ltd PAYTM P&F | F.A 3.13% 1155 1,89,78,974
+Filtered 9 stocks (1 to 9)
+Previous
+1
+Next
+Backtest history*new* Limit:
+9 months
+2 years
+4 years
+6 years
+9 years
+
+
+Click on bars to view stock details filtered at the given time
+Download csv
+Related Screeners
+- Chartink.com -
+Terms of usage | Privacy Policy | About Us | Contact Us
+Price Data sourced from NSE feed, price updates are near real-time, unless indicated. Financial data sourced from CMOTS Internet Technologies Pvt. Ltd. Technical/Fundamental Analysis Charts & Tools provided for research purpose. Please be aware of the risk's involved in trading & seek independent advice, if necessary.

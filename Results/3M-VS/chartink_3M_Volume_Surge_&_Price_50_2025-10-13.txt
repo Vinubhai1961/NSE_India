@@ -5,7 +5,7 @@ Screening Criteria:
 Weekly volume surge and price > 50
 
 URL:
-https://chartink.com/screener/copy-sp-volume-surge-equity-2
+https://chartink.com/screener/copy-weekly-volume-surge-equity
 ------------------------------------------------------------
 
 +-------+---------------------------------------------+------------+---------+---------+----------+

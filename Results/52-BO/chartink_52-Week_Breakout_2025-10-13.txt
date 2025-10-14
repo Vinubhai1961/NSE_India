@@ -11,72 +11,78 @@ https://chartink.com/screener/copy-52-week-breakout-16092026
 +-------+----------------------------------------+--------------+---------+---------+----------+
 |   Sr. | Stock Name                             | Symbol       |   % Chg |   Price |   Volume |
 +=======+========================================+==============+=========+=========+==========+
-|    30 | Rbl Bank Limited                       | RBLBANK      |   -0.55 |  290    | 18908156 |
+|    32 | Rbl Bank Limited                       | RBLBANK      |   -0.55 |  290    | 18908156 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    29 | Eternal Ltd                            | ETERNAL      |    0.01 |  348.35 | 14458590 |
+|    31 | Eternal Ltd                            | ETERNAL      |    0.01 |  348.35 | 14458590 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    25 | State Bank Of India                    | SBIN         |    0.26 |  882.95 | 11923143 |
+|    27 | State Bank Of India                    | SBIN         |    0.26 |  882.95 | 11923143 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|     6 | L&T Finance Ltd                        | LTF          |    4.12 |  266.58 | 10792642 |
+|     8 | L&T Finance Ltd                        | LTF          |    4.12 |  266.58 | 10792642 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    14 | HDFC Gold ETF                          | HDFCGOLD     |    1.87 |  105.92 |  8935208 |
+|    16 | HDFC Gold ETF                          | HDFCGOLD     |    1.87 |  105.92 |  8935208 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    17 | Bajaj Finance Limited                  | BAJFINANCE   |    1.26 | 1036.75 |  7684523 |
+|    19 | Bajaj Finance Limited                  | BAJFINANCE   |    1.26 | 1036.75 |  7684523 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
 |     2 | Gm Breweries Limited                   | GMBREW       |    5.25 |  941.4  |  6498238 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    15 | Mirae Asset Gold ETF                   | GOLDETF      |    1.77 |  120.31 |  6173649 |
+|    17 | Mirae Asset Gold ETF                   | GOLDETF      |    1.77 |  120.31 |  6173649 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|     8 | Inox Green Energy Services Ltd         | INOXGREEN    |    3.4  |  242.37 |  5836068 |
+|    10 | Inox Green Energy Services Ltd         | INOXGREEN    |    3.4  |  242.37 |  5836068 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|     9 | Fortis Healthcare Limited              | FORTIS       |    3.29 | 1095.15 |  4683912 |
+|    11 | Fortis Healthcare Limited              | FORTIS       |    3.29 | 1095.15 |  4683912 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|     7 | HBL Engineering Ltd                    | HBLENGINE    |    3.88 |  916.75 |  4481310 |
+|     9 | HBL Engineering Ltd                    | HBLENGINE    |    3.88 |  916.75 |  4481310 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    19 | Cupid Limited                          | CUPID        |    0.89 |  248.46 |  3671034 |
+|    21 | Cupid Limited                          | CUPID        |    0.89 |  248.46 |  3671034 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    22 | Nippon India ETF PSU Bank Bees         | PSUBNKBEES   |    0.3  |   86.09 |  3399882 |
+|    24 | Nippon India ETF PSU Bank Bees         | PSUBNKBEES   |    0.3  |   86.09 |  3399882 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    13 | UTI - Gold Exchange Traded Fund        | GOLDSHARE    |    1.96 |  104.2  |  1914202 |
+|    15 | UTI - Gold Exchange Traded Fund        | GOLDSHARE    |    1.96 |  104.2  |  1914202 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    18 | Indian Bank                            | INDIANB      |    0.93 |  783.5  |  1636687 |
+|    20 | Indian Bank                            | INDIANB      |    0.93 |  783.5  |  1636687 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    20 | Bajaj Consumer Care Ltd                | BAJAJCON     |    0.62 |  265.75 |  1497360 |
+|    22 | Bajaj Consumer Care Ltd                | BAJAJCON     |    0.62 |  265.75 |  1497360 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    16 | Nippon Life India Asset Management Ltd | NAM-INDIA    |    1.46 |  884.55 |  1323076 |
+|    18 | Nippon Life India Asset Management Ltd | NAM-INDIA    |    1.46 |  884.55 |  1323076 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    23 | Mirae Asset NYSE FANG+ ETF             | MAFANG       |    0.29 |  172.4  |  1298302 |
+|    25 | Mirae Asset NYSE FANG+ ETF             | MAFANG       |    0.29 |  172.4  |  1298302 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|     5 | Indo Thai Securities Limited           | INDOTHAI     |    4.28 |  392    |  1145590 |
+|     7 | Indo Thai Securities Limited           | INDOTHAI     |    4.28 |  392    |  1145590 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    12 | CreditAccess Grameen Ltd               | CREDITACC    |    2.01 | 1407.8  |   746062 |
+|    14 | CreditAccess Grameen Ltd               | CREDITACC    |    2.01 | 1407.8  |   746062 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    31 | Mirae Asset S&P 500 Top 50 ETF         | MASPTOP50    |   -1.02 |   68.8  |   590678 |
+|    33 | Mirae Asset S&P 500 Top 50 ETF         | MASPTOP50    |   -1.02 |   68.8  |   590678 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    11 | Quantum Gold Fund ETF                  | QGOLDHALF    |    2.24 |  102.75 |   461781 |
+|    36 | Indosolar Ltd                          | WAAREEINDO   |   -5    |  676.15 |   483872 |
++-------+----------------------------------------+--------------+---------+---------+----------+
+|    13 | Quantum Gold Fund ETF                  | QGOLDHALF    |    2.24 |  102.75 |   461781 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
 |     1 | Mahamaya Steel Industries Limited      | MAHASTEEL    |    9.48 |  572.25 |   301378 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|     3 | Bgr Energy Systems Limited             | BGRENERGY    |    5    |  352.35 |   261796 |
+|     4 | Bgr Energy Systems Limited             | BGRENERGY    |    5    |  352.35 |   261796 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    27 | ICICI Prudential Nifty PSU Bank ETF    | PSUBNKIETF   |    0.22 |   77.86 |   138499 |
+|    29 | ICICI Prudential Nifty PSU Bank ETF    | PSUBNKIETF   |    0.22 |   77.86 |   138499 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    32 | Hindware Home Innovation Ltd           | HINDWAREAP   |   -1.36 |  343.6  |   107820 |
+|    34 | Hindware Home Innovation Ltd           | HINDWAREAP   |   -1.36 |  343.6  |   107820 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|     4 | Visa Steel Limited                     | VISASTEEL    |    4.99 |   60.63 |    99526 |
+|     6 | Visa Steel Limited                     | VISASTEEL    |    4.99 |   60.63 |    99526 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    33 | Authum Investment & Infrastructure Ltd | AIIL         |   -3.59 | 3180.9  |    97081 |
+|    35 | Authum Investment & Infrastructure Ltd | AIIL         |   -3.59 | 3180.9  |    97081 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    21 | DSP Nifty PSU Bank ETF                 | PSUBANKADD   |    0.31 |   77.65 |    64791 |
+|    23 | DSP Nifty PSU Bank ETF                 | PSUBANKADD   |    0.31 |   77.65 |    64791 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    10 | Sakar Healthcare Ltd                   | SAKAR        |    2.3  |  366.7  |    42239 |
+|    12 | Sakar Healthcare Ltd                   | SAKAR        |    2.3  |  366.7  |    42239 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    24 | HDFC Nifty PSU Bank ETF                | HDFCPSUBK    |    0.27 |   77.73 |    42219 |
+|    26 | HDFC Nifty PSU Bank ETF                | HDFCPSUBK    |    0.27 |   77.73 |    42219 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    28 | Kotak Nifty PSU Bank ETF               | PSUBANK      |    0.07 |  771.11 |    18942 |
+|    30 | Kotak Nifty PSU Bank ETF               | PSUBANK      |    0.07 |  771.11 |    18942 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
-|    26 | NIFTYPSUBANK                           | NIFTYPSUBANK |    0.24 | 7713.95 |        0 |
+|     3 | Swan Defence and Heavy Industries Ltd  | SWANDEF      |    5    |  668    |     3682 |
++-------+----------------------------------------+--------------+---------+---------+----------+
+|     5 | Eastern Silk Industries Limited        | EASTSILK     |    5    |   60.52 |      143 |
++-------+----------------------------------------+--------------+---------+---------+----------+
+|    28 | NIFTYPSUBANK                           | NIFTYPSUBANK |    0.24 | 7713.95 |        0 |
 +-------+----------------------------------------+--------------+---------+---------+----------+
 
 Ticker Symbols:
-RBLBANK, ETERNAL, SBIN, LTF, HDFCGOLD, BAJFINANCE, GMBREW, GOLDETF, INOXGREEN, FORTIS, HBLENGINE, CUPID, PSUBNKBEES, GOLDSHARE, INDIANB, BAJAJCON, NAM-INDIA, MAFANG, INDOTHAI, CREDITACC, MASPTOP50, QGOLDHALF, MAHASTEEL, BGRENERGY, PSUBNKIETF, HINDWAREAP, VISASTEEL, AIIL, PSUBANKADD, SAKAR, HDFCPSUBK, PSUBANK, NIFTYPSUBANK
+RBLBANK, ETERNAL, SBIN, LTF, HDFCGOLD, BAJFINANCE, GMBREW, GOLDETF, INOXGREEN, FORTIS, HBLENGINE, CUPID, PSUBNKBEES, GOLDSHARE, INDIANB, BAJAJCON, NAM-INDIA, MAFANG, INDOTHAI, CREDITACC, MASPTOP50, WAAREEINDO, QGOLDHALF, MAHASTEEL, BGRENERGY, PSUBNKIETF, HINDWAREAP, VISASTEEL, AIIL, PSUBANKADD, SAKAR, HDFCPSUBK, PSUBANK, SWANDEF, EASTSILK, NIFTYPSUBANK
